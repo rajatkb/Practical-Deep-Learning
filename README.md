@@ -13,6 +13,8 @@ Reposit1ory for links and everything else used for presentation of Deep Learning
 
 ## Royal Global University
 Something new https://docs.google.com/presentation/d/1v_rs-Cm8QOfLiAaGg3x6Dl_2k8ZhRUVsIcXaVQ3z5xo/edit?usp=sharing  
+Repository for the TF All Around Guwahati , @ Royal Global University , Guwahati , Assam 
+
 
 * TF 1 [demo](https://colab.research.google.com/drive/1D4sTHUi3okv6bTFmqh4-ioCoAw-aIu6z)
 * TF 2 [demo](https://colab.research.google.com/drive/14gkmSP7cjqcHemeX5P-6eymv-EXpH99v)
