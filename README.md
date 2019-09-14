@@ -9,3 +9,5 @@ Repository for links and everything else used for presentation of Deep Learning 
 * Oxford 101 flower dataset classification using transfer learning [demo](https://colab.research.google.com/drive/1YJFRyKGDwo4G8kUoYluuRyaub0DIOnTH)
 * U-net segmentation task notebook [demo](https://colab.research.google.com/drive/134LTsLFO73E9ym8SiOoGi60oqFQX1vhP)
 * GANs tryout demo [demo](https://colab.research.google.com/drive/1c71wdjQC-qVImgf-9e9rLpLwMk1_8Oq7)
+
+## something new https://docs.google.com/presentation/d/1v_rs-Cm8QOfLiAaGg3x6Dl_2k8ZhRUVsIcXaVQ3z5xo/edit?usp=sharing
